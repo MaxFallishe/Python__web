@@ -7,7 +7,7 @@ import time
 import pytz
 
 
-bot = telebot.TeleBot("800512802:AAE-_ryL5Ud5qJ2E8Kd8dZdNkrSN2s8cdXM")
+bot = telebot.TeleBot("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 admin_id = 562036772  # 410680216 - Максима
 database = "DayChecker_DB.db"
 
